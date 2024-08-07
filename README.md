@@ -6,3 +6,7 @@
 <code>sh setup.sh</code>
 
 <img src="./web/extensions.png">
+
+> [!CAUTION]
+> Wallpaper <3
+<img src="./web/wallpaper.png">
